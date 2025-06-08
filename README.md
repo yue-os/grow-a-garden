@@ -31,7 +31,7 @@ This script automates the process of collecting **Scheckles** (in-game currency)
 
 ---
 
-## 🧠 Example UI (if included)
+## DOWNLOAD
 
-If the script comes with a UI, it might look like this:
+**Releases**https://github.com/yue-os/grow-a-garden/releases
 
